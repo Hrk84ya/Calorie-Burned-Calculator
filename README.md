@@ -1,4 +1,4 @@
- #Project: Calorie Burned Calculator
+ # Project: Calorie Burned Calculator
 
 ### Overview
 This project aims to predict the calories burned by a user during exercise based on various input parameters. It utilizes machine learning techniques and XGBoost regression to make accurate predictions. The user can input personal information and exercise details to calculate the calories burned.
