@@ -4,9 +4,10 @@
 This project aims to predict the calories burned by a user during exercise based on various input parameters. It utilizes machine learning techniques and XGBoost regression to make accurate predictions. The user can input personal information and exercise details to calculate the calories burned.
 
 ### Files Included
-1. `exercise.csv`: Dataset containing exercise-related information.
-2. `calories.csv`: Dataset providing information on calories burned.
-3. `Calories.py`: Python script to predict calories burned and visualize insights.
+1. `exercise.csv`: Dataset containing exercise-related information
+2. `calories.csv`: Dataset providing information on calories burned
+3. `Calories.py`: Python script to predict calories burned
+4. `project.ipynb`: Python script to visualize insights
 
 ### Usage
 1. Ensure the required modules are installed (`pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`).
